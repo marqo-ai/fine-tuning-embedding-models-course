@@ -3,9 +3,11 @@ import marqo
 # Create a Marqo client with the specified URL
 mq = marqo.Client(url="http://localhost:8882")
 
-# Delete the index if it already exists to ensure a fresh start.
-# Comment this out when you first run the script. 
-mq.index("my-multimodal-index").delete()
+# Delete the movie index if it already exists
+try:
+    mq.index("my-multimodal-index").delete()
+except:
+    pass
 
 # Settings for the index creation, enabling image indexing and specifying the model to use.
 settings = {

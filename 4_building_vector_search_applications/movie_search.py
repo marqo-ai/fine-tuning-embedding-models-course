@@ -3,11 +3,13 @@ import marqo
 # Create a Marqo client
 mq = marqo.Client(url="http://localhost:8882")
 
-# Delete the index if it already exists to ensure a fresh start.
-# Comment this out when you first run the script. 
-mq.index("movies-index").delete()
+# Delete the movie index if it already exists
+try:
+    mq.index("movies-index").delete()
+except:
+    pass
 
-# Create an index
+# Create the movie index 
 mq.create_index("movies-index", model="hf/e5-base-v2")
 
 # Add documents (movie descriptions) to the index
