@@ -18,8 +18,8 @@ This course will equip you with cutting-edge skills to create smarter, more intu
 ## Course Structure
 * [Introduction to Vector Representations](https://www.marqo.ai/course/introduction-to-vector-embeddings)
 * [Foundations of Embeddings Models](https://www.marqo.ai/course/foundations-of-embedding-models)
-* Introduction to Vector Databases
-* Introduction to Sentence Transformers
+* [Introduction to Vector Databases](https://www.marqo.ai/course/introduction-to-vector-databases)
+* [Introduction to Sentence Transformers](https://www.marqo.ai/course/build-your-first-vector-search-application)
 * Training and Fine-Tuning Sentence Transformers
 * Introduction to Vision Transformers
 * Training and Fine-Tuning Vision Transformers
