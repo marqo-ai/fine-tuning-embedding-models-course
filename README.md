@@ -16,18 +16,16 @@ People with beginner-level familiarity with Python and an interest in machine le
 This course will equip you with cutting-edge skills to create smarter, more intuitive search tools that understand the true meaning behind your queries. Whether you're a complete beginner or a tech enthusiast, you'll gain everything you need to start building powerful, intelligent search solutions.
 
 ## Course Structure
-* [Introduction to Vector Representations](https://www.marqo.ai/course/introduction-to-vector-embeddings)
+* [Introduction to Vector Embeddings](https://www.marqo.ai/course/introduction-to-vector-embeddings)
 * [Foundations of Embeddings Models](https://www.marqo.ai/course/foundations-of-embedding-models)
 * [Introduction to Vector Databases](https://www.marqo.ai/course/introduction-to-vector-databases)
-* [Build Your First Vector Search System](https://www.marqo.ai/course/build-your-first-vector-search-application)
+* [Build Your First Vector Search Application](https://www.marqo.ai/course/build-your-first-vector-search-application)
 * [Introduction to Sentence Transformers](https://www.marqo.ai/course/introduction-to-sentence-transformers)
 * [Training and Fine-Tuning Sentence Transformers](https://www.marqo.ai/course/training-fine-tuning-sentence-transformers)
 * [Introduction to Vision Transformers](https://www.marqo.ai/course/introduction-to-vision-transformers)
 * [Training and Fine-Tuning Vision Transformers](https://www.marqo.ai/course/training-and-fine-tuning-vision-transformers)
 * [Introduction to CLIP (Multimodal)](https://www.marqo.ai/course/introduction-to-clip-and-multimodal-models)
 * [Training and Fine-Tuning CLIP](https://www.marqo.ai/course/fine-tuning-clip-models)
-
-We are gradually releasing the modules in this course to give you the chance to read, reflect and ask questions.
 
 ## Questions?
 If you have any questions, join our [Slack Community](https://join.slack.com/t/marqo-community/shared_invite/zt-2iab0260n-QJrZLUSOJYUifVxf964Gdw) and a member of our team will be there to help! If it's course specific, please post your questions in the 'marqo-courses' channel. If it's [Marqo](https://www.marqo.ai/) specific, please post your question in the 'get-help' channel. You can also send [Ellie](https://github.com/ellie-sleightholm) a private message in the Slack Community if you prefer.
