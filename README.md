@@ -19,12 +19,13 @@ This course will equip you with cutting-edge skills to create smarter, more intu
 * [Introduction to Vector Representations](https://www.marqo.ai/course/introduction-to-vector-embeddings)
 * [Foundations of Embeddings Models](https://www.marqo.ai/course/foundations-of-embedding-models)
 * [Introduction to Vector Databases](https://www.marqo.ai/course/introduction-to-vector-databases)
-* [Introduction to Sentence Transformers](https://www.marqo.ai/course/build-your-first-vector-search-application)
-* Training and Fine-Tuning Sentence Transformers
-* Introduction to Vision Transformers
-* Training and Fine-Tuning Vision Transformers
-* Introduction to CLIP (Multimodal)
-* Training and Fine-Tuning CLIP
+* [Build Your First Vector Search System](https://www.marqo.ai/course/build-your-first-vector-search-application)
+* [Introduction to Sentence Transformers](https://www.marqo.ai/course/introduction-to-sentence-transformers)
+* [Training and Fine-Tuning Sentence Transformers](https://www.marqo.ai/course/training-fine-tuning-sentence-transformers)
+* [Introduction to Vision Transformers](https://www.marqo.ai/course/introduction-to-vision-transformers)
+* [Training and Fine-Tuning Vision Transformers](https://www.marqo.ai/course/training-and-fine-tuning-vision-transformers)
+* [Introduction to CLIP (Multimodal)](https://www.marqo.ai/course/introduction-to-clip-and-multimodal-models)
+* [Training and Fine-Tuning CLIP](https://www.marqo.ai/course/fine-tuning-clip-models)
 
 We are gradually releasing the modules in this course to give you the chance to read, reflect and ask questions.
 
